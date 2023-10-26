@@ -1,13 +1,6 @@
 {
   "constellations": [
     {
-      "id": "UEUrlfX",
-      "name": "Columba",
-      "meaning": "Dove",
-      "starsWithPlanets": 3,
-      "quadrant": "SQ1"
-    },
-    {
       "id": "zb8QvVt",
       "name": "Crater",
       "meaning": "Cup",
@@ -97,6 +90,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Columba",
+      "meaning": "Dove",
+      "starsWithPlanets": 3,
+      "quadrant": "SQ1",
+      "id": "pfiircN"
     }
   ]
 }
